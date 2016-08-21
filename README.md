@@ -23,4 +23,6 @@ This repository contains a list of al CAE related repositories.
 
 *Here you can find editors or plugins for editors.*
 
-* [vim-lsdyna](https://github.com/qd-cae/vim-lsdyna) - Extremely capable vim-plugin for LS-DYNA input files.
+* [vim-lsdyna](https://github.com/gradzikb/vim-lsdyna) - vim-plugin for LS-DYNA input files.
+* [vim-abaqus](https://github.com/gradzikb/vim-abaqus) - vim-plugin for ABAQUS input files.
+* [vim-radioss](https://github.com/gradzikb/vim-radioss) - vim-plugin for RADIOSS input files.
