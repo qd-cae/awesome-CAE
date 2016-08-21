@@ -15,6 +15,7 @@ This repository contains a list of al CAE related repositories.
 
 * [SU2](https://github.com/su2code/SU2) - SU2 is a C++ suite of tools for the numerical solution of partial differential equations (PDE) and performing PDE constrained optimization, primary for CFD.
 * [opti4Abq](https://github.com/mengomarlene/opti4Abq) - An optimisation method for python2 and ABAQUS.
+* [OpenFoam](https://github.com/OpenFOAM?tab=repositories) - Open Source CFD solver
 
 ----------------
 # Postprocessing
@@ -25,6 +26,7 @@ This repository contains a list of al CAE related repositories.
 * [Codie-D3plot](https://github.com/qd-cae/Codie-D3plot) - Now deprecated and integrated in qd-python. Reading of binary D3plot from LS-DYNA with femzip support.
 * [matlab-lsdyna](https://github.com/svenholcombe/matlab-lsdyna) - Reader of ascii results files from the Finite Element solver LS-DYNA, and a wrapper to run LS-DYNA simulations programmatically from MATLAB.
 * [postPro4Abq](https://github.com/Solid-Mechanics/postPro4Abq) - Python scripts to read and process an odb file.
+* [ParaView](https://github.com/Kitware/ParaView) - ParaView is an open-source, multi-platform data analysis and visualization application based on Visualization Toolkit (VTK).
 
 ---------
 # Editors
