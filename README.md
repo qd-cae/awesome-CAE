@@ -5,6 +5,8 @@ This repository contains a list of al CAE related repositories.
 ---------------
 # Preprocessing
 
+*Libraries mainly meant for preprocessing of data before simulation*
+
 * [NK-FEMeshUtils](https://github.com/qd-cae/NK-FEMeshUtils) - Python implementation for handling of FE Mesh data from LS-DYNA and RADIOSS.
 
 ----------------
