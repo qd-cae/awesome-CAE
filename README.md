@@ -1,5 +1,5 @@
 # CAE-Repository-Collection
-This repository contains a list of al CAE related repositories. 
+This repository contains a list of CAE related repositories. 
 
 
 ---------------
