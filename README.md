@@ -11,6 +11,7 @@ This repository contains a list of CAE related repositories.
 * [AbqParse](https://github.com/crmccreary/AbqParse) - A simple parser for Abaqus input files that parses out the keywords, parameters, and data lines.
 * [abaqus2dyna](https://github.com/tbhartman/abaqus2dyna) - abaqus2dyna is a script to convert, in a limited fashion, Abaqus keyword inputfiles to LS-DYNA keyword input files.
 * [pycalculix](https://github.com/spacether/pycalculix) - pycalculix is a Python 3 library to automate and build finite element analysis (FEA) models in Calculix.
+* [pyDOE](https://github.com/tisimst/pyDOE) - library for creating design of experiments studies
 
 ----------------
 # Solver related 
