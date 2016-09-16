@@ -7,6 +7,7 @@ This repository contains a list of CAE related repositories.
 
 *Libraries mainly meant for preprocessing of data before simulation*
 
+* [abapy](https://github.com/lcharleux/abapy) - Abaqus Python “AbaPy” contains tools to build, postprocess and plot automatic finite element simulations using Abaqus.
 * [NK-FEMeshUtils](https://github.com/qd-cae/NK-FEMeshUtils) - Python implementation for handling of FE Mesh data from LS-DYNA and RADIOSS.
 * [AbqParse](https://github.com/crmccreary/AbqParse) - A simple parser for Abaqus input files that parses out the keywords, parameters, and data lines.
 * [abaqus2dyna](https://github.com/tbhartman/abaqus2dyna) - abaqus2dyna is a script to convert, in a limited fashion, Abaqus keyword inputfiles to LS-DYNA keyword input files.
