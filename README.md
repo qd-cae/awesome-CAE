@@ -14,7 +14,8 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [abaqus2dyna](https://github.com/tbhartman/abaqus2dyna) - abaqus2dyna is a script to convert, in a limited fashion, Abaqus keyword inputfiles to LS-DYNA keyword input files.
 * [pycalculix](https://github.com/spacether/pycalculix) - pycalculix is a Python 3 library to automate and build finite element analysis (FEA) models in Calculix.
 * [pyDOE](https://github.com/tisimst/pyDOE) - library for creating design of experiments studies
-
+* [meshpy](https://mathema.tician.de/software/meshpy) - MeshPy offers quality triangular and tetrahedral mesh generation for Python
+* [pymesh](http://pymesh.readthedocs.io/en/latest) - PyMesh — Geometry Processing Library for Python
 -----------
 # Materials
 * [ABAQUS-US](https://github.com/jgomezc1/ABAQUS-US) - A variety of ABAQUS user element (UELs) and user material (UMATs) subroutines 
@@ -29,6 +30,9 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [jobwatch](https://github.com/jakobgager/jobwatch) - Abaqus Job Status Plotter
 * [NASTRAN-95](https://github.com/nasa/NASTRAN-95) - FEM solver
 * [abaqus-fortran-env-setup](https://github.com/song2001/abaqus-fortran-env-setup) - Files and docs to assist getting Abaqus with Intel Fortran development environment configured. 
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - OpenBLAS is an optimized BLAS library
+* [PyOP2](https://github.com/OP2/PyOP2) - Framework for performance-portable parallel computations on unstructured meshes
+* [pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
 
 ----------------
 # Postprocessing
