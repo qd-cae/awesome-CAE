@@ -1,5 +1,5 @@
-# CAE-Repository-Collection
-This repository contains a list of CAE related repositories. 
+# Awesome CAE
+A curated list of awesome CAE frameworks, libraries and software. 
 
 
 ---------------
