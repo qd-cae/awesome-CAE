@@ -72,6 +72,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 
 * [nastran-find](https://github.com/setvisible/nastran-find) - Nastranfind is a solution for browsing Nastran input deck
 * [FEconv](https://github.com/victorsndvg/FEconv) - Program feconv converts finite element (FE) mesh files between several formats
+* [odb2vtk](https://github.com/Liujie-SYSU/odb2vtk) - Python script converts Abaqus ODB files to VTK format for Paraview visualisation.
 
 ---------
 # Editors
