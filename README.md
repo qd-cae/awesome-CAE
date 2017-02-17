@@ -1,6 +1,13 @@
 # Awesome CAE
 A curated list of awesome CAE frameworks, libraries and software. 
 
+--------
+# CAD
+
+* [pythonocc](https://github.com/tpaviot/pythonocc) - pythonOCC is a 3D CAD/CAE/PLM development framework for the Python programming language
+* [cadmium](https://github.com/jay3sh/cadmium) - Cadmium is a python library for Solid Modelling.
+* [oce](https://github.com/tpaviot/oce) - oce is a C++ 3D modeling library.
+
 
 ---------------
 # Preprocessors
@@ -16,6 +23,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [pyDOE](https://github.com/tisimst/pyDOE) - library for creating design of experiments studies
 * [meshpy](https://mathema.tician.de/software/meshpy) - MeshPy offers quality triangular and tetrahedral mesh generation for Python
 * [pymesh](http://pymesh.readthedocs.io/en/latest) - PyMesh — Geometry Processing Library for Python
+* [smesh](https://github.com/tpaviot/smesh) - A complete OpenCascade based MESH framework
 
 -----------
 # Materials
@@ -57,6 +65,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 *Tools for doing optimization.*
 
 * [opti4Abq](https://github.com/mengomarlene/opti4Abq) - An optimisation method for python2 and ABAQUS.
+* [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO-Framework) - OpenMDAO is an open-source high-performance computing platform for systems analysis and multidisciplinary optimization, written in Python.
 
 --------
 # Tools
