@@ -24,6 +24,9 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [meshpy](https://mathema.tician.de/software/meshpy) - MeshPy offers quality triangular and tetrahedral mesh generation for Python
 * [pymesh](http://pymesh.readthedocs.io/en/latest) - PyMesh — Geometry Processing Library for Python
 * [smesh](https://github.com/tpaviot/smesh) - A complete OpenCascade based MESH framework
+* [pygmsh](https://github.com/nschloe/pygmsh) - The goal of PyGmsh is to combine the power of Gmsh with the versatility of Python
+* [FreeCAD](https://github.com/FreeCAD/FreeCAD) - FreeCAD is a general purpose feature-based, parametric 3D modeler for CAD, MCAD, CAx, CAE and PLM
+* [VTK](https://github.com/Kitware/VTK) - VTK is an open-source software system for image processing, 3D graphics, volume rendering and visualization
 
 -----------
 # Materials
@@ -42,6 +45,10 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS) - OpenBLAS is an optimized BLAS library
 * [PyOP2](https://github.com/OP2/PyOP2) - Framework for performance-portable parallel computations on unstructured meshes
 * [pyamg](https://github.com/pyamg/pyamg) - Algebraic Multigrid Solvers in Python
+* [Fluid-Solver](https://github.com/seanlth/Fluid-Solver) - Staggered-Grid Fluid Solver in Rust
+* [boltzmann](https://github.com/seanlth/boltzmann) - Maxwell-Boltzmann distribution simulator written in Rust
+* [nusa](https://github.com/JorgeDeLosSantos/nusa) - A Python library for simple structural analysis using FEM
+* [JuliaFEM](https://github.com/JuliaFEM/JuliaFEM.jl) - The JuliaFEM project develops open-source software for reliable, scalable, distributed FEM
 
 ----------------
 # Postprocessing
@@ -56,7 +63,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [abaqusPython](https://github.com/quisten/abaqusPython) - A collection of frequently used abaqus scripts and other useful gems! 
 * [matplotlib-4-abaqus](https://github.com/Solid-Mechanics/matplotlib-4-abaqus) - Allow abaqus(v6.14-1) to use matplotlib in its build-in python scripts environment.
 * [colorbrewer-colormaps-4-abaqus](https://github.com/Solid-Mechanics/colorbrewer-colormaps-4-abaqus) - An easy way to use the beautiful color schemes in Abaqus to plot contour.
-
+* [PyQus](https://github.com/JorgeDeLosSantos/pyqus) - Python codes for post-processing of Abaqus ODB files.
 
 
 --------------
@@ -85,6 +92,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [vim-radioss](https://github.com/gradzikb/vim-radioss) - vim-plugin for RADIOSS input files.
 * [language-abaqus package](https://github.com/drwillharrison/language-abaqus) - ABAQUS language highlighting in the editor ATOM.
 * [language-nastran](https://github.com/marioarbras/language-nastran) - Adds syntax highlighting to NASTRAN files in Atom.
+* [language-abaqus](https://github.com/drwillharrison/language-abaqus) - Basic syntax highlighting for Abaqus input files in Atom.
 
 ---------------
 # Documentation
