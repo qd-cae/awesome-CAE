@@ -49,6 +49,8 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [boltzmann](https://github.com/seanlth/boltzmann) - Maxwell-Boltzmann distribution simulator written in Rust
 * [nusa](https://github.com/JorgeDeLosSantos/nusa) - A Python library for simple structural analysis using FEM
 * [JuliaFEM](https://github.com/JuliaFEM/JuliaFEM.jl) - The JuliaFEM project develops open-source software for reliable, scalable, distributed FEM
+* [FEniCS](https://fenicsproject.org/) - FEniCS is a computing platform for solving partial differential equations in a very comfortable manner.
+* [deal.II](https://www.dealii.org/) -  A C++ software library supporting the creation of finite element codes
 
 ----------------
 # Postprocessing
