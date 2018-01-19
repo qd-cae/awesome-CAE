@@ -27,6 +27,9 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [pygmsh](https://github.com/nschloe/pygmsh) - The goal of PyGmsh is to combine the power of Gmsh with the versatility of Python
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - FreeCAD is a general purpose feature-based, parametric 3D modeler for CAD, MCAD, CAx, CAE and PLM
 * [VTK](https://github.com/Kitware/VTK) - VTK is an open-source software system for image processing, 3D graphics, volume rendering and visualization
+* [Robust-Hexahedral-Re-Meshing](https://github.com/gaoxifeng/Robust-Hexahedral-Re-Meshing) - Robust Structure Simplification for Hex Re-meshing
+* [gridder](https://github.com/lanl/gridder) - gridder is a simple interactive grid generation tool for creating 2D and 3D orthogonal grids. Used at Los Alamos National Laboratory (EES Group). 
+* [libMesh ](https://github.com/libMesh/libmesh) - The libMesh library provides a framework for the numerical simulation of partial differential equations. A major goal of the library is to provide support adaptive mesh refinement (AMR).
 
 -----------
 # Materials
@@ -51,6 +54,10 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [JuliaFEM](https://github.com/JuliaFEM/JuliaFEM.jl) - The JuliaFEM project develops open-source software for reliable, scalable, distributed FEM
 * [FEniCS](https://fenicsproject.org/) - FEniCS is a computing platform for solving partial differential equations in a very comfortable manner.
 * [deal.II](https://www.dealii.org/) -  A C++ software library supporting the creation of finite element codes
+* [CFDEM](https://github.com/CFDEMproject/CFDEMcoupling-PUBLIC) - This code provides models and solvers to realize coupled CFD-DEM simulations using LIGGGHTS and OpenFOAM® technology.
+* [Voxelyze](https://github.com/jonhiller/Voxelyze) - Voxelyze is a general purpose multi-material voxel simulation library for static and dynamic analysis.
+* [CalculiX](https://github.com/GeneralElectric/CalculiX) - CalculiX is an OSS package designed to solve field problems. The method used is the finite element method.
+* [Modelica](https://github.com/modelica/Modelica) - Free library from the Modelica Association to model mechanical (1D/3D), electrical (analog, digital, machines), thermal, fluid, control systems and hierarchical state machines.
 
 ----------------
 # Postprocessing
@@ -66,7 +73,8 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [matplotlib-4-abaqus](https://github.com/Solid-Mechanics/matplotlib-4-abaqus) - Allow abaqus(v6.14-1) to use matplotlib in its build-in python scripts environment.
 * [colorbrewer-colormaps-4-abaqus](https://github.com/Solid-Mechanics/colorbrewer-colormaps-4-abaqus) - An easy way to use the beautiful color schemes in Abaqus to plot contour.
 * [PyQus](https://github.com/JorgeDeLosSantos/pyqus) - Python codes for post-processing of Abaqus ODB files.
-
+* [IsoSurfaceExtraction](https://github.com/mkazhdan/IsoSurfaceExtraction) - Isosurface extraction from regular voxel grids
+* [glue](https://github.com/glue-viz/glue) - Glue is a python project to link visualizations of scientific datasets across many files.
 
 --------------
 # Optimization
@@ -75,6 +83,9 @@ A curated list of awesome CAE frameworks, libraries and software.
 
 * [opti4Abq](https://github.com/mengomarlene/opti4Abq) - An optimisation method for python2 and ABAQUS.
 * [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO-Framework) - OpenMDAO is an open-source high-performance computing platform for systems analysis and multidisciplinary optimization, written in Python.
+* [ToOptiX](https://github.com/ldslpm/ToOptiX) - ToOptix is used for multiphysical topology optimization.
+* [CasADi](https://github.com/ldslpm/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs.
+* [YALMIP](https://github.com/yalmip/YALMIP) - MATLAB toolbox for optimization modeling
 
 --------
 # Tools
@@ -82,6 +93,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [nastran-find](https://github.com/setvisible/nastran-find) - Nastranfind is a solution for browsing Nastran input deck
 * [FEconv](https://github.com/victorsndvg/FEconv) - Program feconv converts finite element (FE) mesh files between several formats
 * [odb2vtk](https://github.com/Liujie-SYSU/odb2vtk) - Python script converts Abaqus ODB files to VTK format for Paraview visualisation.
+* [nastran-find](https://github.com/setvisible/nastran-find) - Nastranfind is a solution for browsing Nastran input deck files for Windows, Mac OS X and Unix.
 
 ---------
 # Editors
@@ -92,9 +104,10 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [vim-lexer-lsdyna](https://github.com/tbhartman/vim-lexer-lsdyna) - LS-DYNA keyword input file lexer for vim.
 * [vim-abaqus](https://github.com/gradzikb/vim-abaqus) - vim-plugin for ABAQUS input files.
 * [vim-radioss](https://github.com/gradzikb/vim-radioss) - vim-plugin for RADIOSS input files.
-* [language-abaqus package](https://github.com/drwillharrison/language-abaqus) - ABAQUS language highlighting in the editor ATOM.
-* [language-nastran](https://github.com/marioarbras/language-nastran) - Adds syntax highlighting to NASTRAN files in Atom.
-* [language-abaqus](https://github.com/drwillharrison/language-abaqus) - Basic syntax highlighting for Abaqus input files in Atom.
+* [ATOM language-abaqus](https://atom.io/packages/language-abaqus) - ABAQUS language highlighting in the editor ATOM.
+* [ATOM language-nastran](https://atom.io/packages/language-nastran) - Adds syntax highlighting to NASTRAN files in Atom.
+* [ATOM language-abaqus](https://github.com/drwillharrison/language-abaqus) - Basic syntax highlighting for Abaqus input files in Atom.
+* [ATOM language-ansys](https://atom.io/packages/language-ansys) - ANSYS apdl language support for ATOM.
 
 ---------------
 # Documentation
