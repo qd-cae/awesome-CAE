@@ -30,6 +30,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [Robust-Hexahedral-Re-Meshing](https://github.com/gaoxifeng/Robust-Hexahedral-Re-Meshing) - Robust Structure Simplification for Hex Re-meshing
 * [gridder](https://github.com/lanl/gridder) - gridder is a simple interactive grid generation tool for creating 2D and 3D orthogonal grids. Used at Los Alamos National Laboratory (EES Group). 
 * [libMesh ](https://github.com/libMesh/libmesh) - The libMesh library provides a framework for the numerical simulation of partial differential equations. A major goal of the library is to provide support adaptive mesh refinement (AMR).
+* [Simright WebMesher](https://www.simright.com/apps/simright-webmesher) - Simright WebMesher is a Web-based preprocessor. It supports importing most popular CAD formats, interactive meshing, definitions of loads & BCs and exporting into various CAE formats.
 
 -----------
 # Materials
@@ -58,6 +59,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [Voxelyze](https://github.com/jonhiller/Voxelyze) - Voxelyze is a general purpose multi-material voxel simulation library for static and dynamic analysis.
 * [CalculiX](https://github.com/GeneralElectric/CalculiX) - CalculiX is an OSS package designed to solve field problems. The method used is the finite element method.
 * [Modelica](https://github.com/modelica/Modelica) - Free library from the Modelica Association to model mechanical (1D/3D), electrical (analog, digital, machines), thermal, fluid, control systems and hierarchical state machines.
+* [Simright Simulator](https://www.simright.com/apps/simright-simulator) - Simright Simulator is a Web-based structural analysis software.
 
 ----------------
 # Postprocessing
@@ -75,6 +77,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [PyQus](https://github.com/JorgeDeLosSantos/pyqus) - Python codes for post-processing of Abaqus ODB files.
 * [IsoSurfaceExtraction](https://github.com/mkazhdan/IsoSurfaceExtraction) - Isosurface extraction from regular voxel grids
 * [glue](https://github.com/glue-viz/glue) - Glue is a python project to link visualizations of scientific datasets across many files.
+* [Simright Viewer](https://www.simright.com/apps/simright-viewer) - Simright Viewer is a Web-based viewer for CAD/CAE models. It can also be used to create a 3D snapshot URL for sharing. 
 
 --------------
 # Optimization
@@ -86,6 +89,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [ToOptiX](https://github.com/ldslpm/ToOptiX) - ToOptix is used for multiphysical topology optimization.
 * [CasADi](https://github.com/ldslpm/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs.
 * [YALMIP](https://github.com/yalmip/YALMIP) - MATLAB toolbox for optimization modeling
+* [Simright Toptimizer](https://www.simright.com/apps/simright-toptimizer) - Simright Toptimizer is a Web-based Topology Optimization software.
 
 --------
 # Tools
@@ -94,6 +98,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [FEconv](https://github.com/victorsndvg/FEconv) - Program feconv converts finite element (FE) mesh files between several formats
 * [odb2vtk](https://github.com/Liujie-SYSU/odb2vtk) - Python script converts Abaqus ODB files to VTK format for Paraview visualisation.
 * [nastran-find](https://github.com/setvisible/nastran-find) - Nastranfind is a solution for browsing Nastran input deck files for Windows, Mac OS X and Unix.
+* [Simright Converter](https://www.simright.com/apps/simright-converter) - Simright Converter is a web-based tool for converting CAE models between different formats. 
 
 ---------
 # Editors
