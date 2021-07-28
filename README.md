@@ -99,6 +99,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [odb2vtk](https://github.com/Liujie-SYSU/odb2vtk) - Python script converts Abaqus ODB files to VTK format for Paraview visualisation.
 * [nastran-find](https://github.com/setvisible/nastran-find) - Nastranfind is a solution for browsing Nastran input deck files for Windows, Mac OS X and Unix.
 * [Simright Converter](https://www.simright.com/apps/simright-converter) - Simright Converter is a web-based tool for converting CAE models between different formats. 
+* [abaqus_scripts](https://github.com/rodrigo1392) - Python scripts to automate the boring stuff in everyday use of Simulia Abaqus, from opening the GUI to controlling parametric analysis.
 
 ---------
 # Editors
