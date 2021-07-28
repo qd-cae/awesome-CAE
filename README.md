@@ -31,6 +31,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [gridder](https://github.com/lanl/gridder) - gridder is a simple interactive grid generation tool for creating 2D and 3D orthogonal grids. Used at Los Alamos National Laboratory (EES Group). 
 * [libMesh ](https://github.com/libMesh/libmesh) - The libMesh library provides a framework for the numerical simulation of partial differential equations. A major goal of the library is to provide support adaptive mesh refinement (AMR).
 * [Simright WebMesher](https://www.simright.com/apps/simright-webmesher) - Simright WebMesher is a Web-based preprocessor. It supports importing most popular CAD formats, interactive meshing, definitions of loads & BCs and exporting into various CAE formats.
+* [meshzoo](https://github.com/nschloe/meshzoo) - A collection of simple meshes for canonical domains
 
 -----------
 # Materials
