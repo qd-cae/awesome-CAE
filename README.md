@@ -79,6 +79,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [IsoSurfaceExtraction](https://github.com/mkazhdan/IsoSurfaceExtraction) - Isosurface extraction from regular voxel grids
 * [glue](https://github.com/glue-viz/glue) - Glue is a python project to link visualizations of scientific datasets across many files.
 * [Simright Viewer](https://www.simright.com/apps/simright-viewer) - Simright Viewer is a Web-based viewer for CAD/CAE models. It can also be used to create a 3D snapshot URL for sharing. 
+* [dynareadout](https://github.com/PucklaJ/dynareadout) - A C/C++/Python library for reading binary LS-DYNA result files (binout, d3plot) with a focus on performance and memory usage.
 
 --------------
 # Optimization
