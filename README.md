@@ -6,6 +6,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 
 * [pythonocc](https://github.com/tpaviot/pythonocc) - pythonOCC is a 3D CAD/CAE/PLM development framework for the Python programming language
 * [cadmium](https://github.com/jay3sh/cadmium) - Cadmium is a python library for Solid Modelling.
+* [CadQuery](https://github.com/CadQuery/cadquery) - CadQuery is a Python CAD library that uses the OpenCASCADE CAD kernel
 * [oce](https://github.com/tpaviot/oce) - oce is a C++ 3D modeling library.
 
 
