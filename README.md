@@ -33,6 +33,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [libMesh ](https://github.com/libMesh/libmesh) - The libMesh library provides a framework for the numerical simulation of partial differential equations. A major goal of the library is to provide support adaptive mesh refinement (AMR).
 * [Simright WebMesher](https://www.simright.com/apps/simright-webmesher) - Simright WebMesher is a Web-based preprocessor. It supports importing most popular CAD formats, interactive meshing, definitions of loads & BCs and exporting into various CAE formats.
 * [meshzoo](https://github.com/nschloe/meshzoo) - A collection of simple meshes for canonical domains
+* [pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 
 -----------
 # Materials
