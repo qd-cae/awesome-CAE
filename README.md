@@ -63,6 +63,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [CalculiX](https://github.com/GeneralElectric/CalculiX) - CalculiX is an OSS package designed to solve field problems. The method used is the finite element method.
 * [Modelica](https://github.com/modelica/Modelica) - Free library from the Modelica Association to model mechanical (1D/3D), electrical (analog, digital, machines), thermal, fluid, control systems and hierarchical state machines.
 * [Simright Simulator](https://www.simright.com/apps/simright-simulator) - Simright Simulator is a Web-based structural analysis software.
+* [xara](https://github.com/peer-open-source/xara) - Free batteries-included package for fast nonlinear finite element analysis in Python
 
 ----------------
 # Postprocessing
