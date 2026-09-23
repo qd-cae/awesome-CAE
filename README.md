@@ -44,6 +44,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 ----------------
 # Solver related 
 
+* [AgentFEM](https://github.com/haoming-luo/agentfem) - Open-source finite-element platform for structural and thermal analysis, with Python/CLI workflows, an MCP adapter for AI agents, and parameter studies for simulation-data generation.
 * [SU2](https://github.com/su2code/SU2) - SU2 is a C++ suite of tools for the numerical solution of partial differential equations (PDE) and performing PDE constrained optimization, primary for CFD.
 * [OpenFoam](https://github.com/OpenFOAM?tab=repositories) - Open Source CFD solver
 * [jobwatch](https://github.com/jakobgager/jobwatch) - Abaqus Job Status Plotter
