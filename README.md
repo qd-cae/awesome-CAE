@@ -105,6 +105,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [Simright Converter](https://www.simright.com/apps/simright-converter) - Simright Converter is a web-based tool for converting CAE models between different formats. 
 * [abaqus_scripts](https://github.com/rodrigo1392) - Python scripts to automate the boring stuff in everyday use of Simulia Abaqus, from opening the GUI to controlling parametric analysis.
 * [abqpy](https://github.com/haiiliin/abqpy) - Type hints for Abaqus/Python scripting.
+* [caexfer](https://github.com/cmccomb/caexfer) - Rust library and CLI for validating and transferring supported finite-element meshes and results across CAE formats.
 
 ---------
 # Editors
