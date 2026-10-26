@@ -63,6 +63,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [CalculiX](https://github.com/GeneralElectric/CalculiX) - CalculiX is an OSS package designed to solve field problems. The method used is the finite element method.
 * [Modelica](https://github.com/modelica/Modelica) - Free library from the Modelica Association to model mechanical (1D/3D), electrical (analog, digital, machines), thermal, fluid, control systems and hierarchical state machines.
 * [Simright Simulator](https://www.simright.com/apps/simright-simulator) - Simright Simulator is a Web-based structural analysis software.
+* [NovaSolver Studio](https://github.com/novasolver/novasolver-studio) - Desktop app (Windows, GPL-3.0) that meshes STEP/STL parts with Gmsh and solves structural and thermal FEM (built-in or CalculiX) and CFD (OpenFOAM), with a mesh-convergence check; can be driven by an AI assistant over MCP.
 
 ----------------
 # Postprocessing
